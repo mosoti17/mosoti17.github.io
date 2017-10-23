@@ -1,12 +1,20 @@
+html, body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+section{
+  padding: 0;
+}
 .bg-faded{
-  background-color: #4b4e54;
+
   color: white;
+
 }
 
 #portifolio{
 background-size: cover;
 background-image: url("../assets/potifolio_bg1.jpg");
-background-repeat: no-repeat;
+background-attachment: fixed;
 background-color: #1e61cc;
 
 
@@ -44,6 +52,7 @@ overflow: scroll;
 .web{
   margin-top: 2%;
   text-align: center;
+
 }
 .contact{
   margin-top: 2%;
@@ -69,6 +78,10 @@ textarea{
   width: 100%;
   resize: none;
 }
-a{
+footer a{
   color: white;
+}
+li{
+  display: inline-block;
+  padding-right: 6%;
 }
