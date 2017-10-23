@@ -1,0 +1,74 @@
+.bg-faded{
+  background-color: #4b4e54;
+  color: white;
+}
+
+#portifolio{
+background-size: cover;
+background-image: url("../assets/potifolio_bg1.jpg");
+background-repeat: no-repeat;
+background-color: #1e61cc;
+
+
+}
+.introduction{
+  padding: 22% 0 22% 0;
+  color: white;
+  text-align: -webkit-center;
+}
+#about {
+  margin-top: 5%;
+  text-align: -webkit-center;
+}
+#projects{
+text-align: -webkit-center;
+}
+#projects img{
+  height: 200px;
+  align-items: center;
+margin: 5%;
+overflow: scroll;
+}
+#contact{
+
+}
+#contacthead{
+  margin: 5%;
+  text-align: -webkit-center;
+}
+#footer{
+  background-color: #4b4e54;
+  color: white;
+  text-align: center;
+}
+.web{
+  margin-top: 2%;
+  text-align: center;
+}
+.contact{
+  margin-top: 2%;
+  text-align: -webkit-left;
+
+}
+.form-group{
+  padding: 0 10% 0 10%;
+}
+.location{
+    margin-top: 2%;
+}
+.location h3{
+  padding-top: 5vh;
+}
+.coptright{
+  color: white;
+}
+.copyright{
+  background-color:#34363a;
+}
+textarea{
+  width: 100%;
+  resize: none;
+}
+a{
+  color: white;
+}
