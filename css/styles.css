@@ -6,10 +6,11 @@ section{
   padding: 0;
 }
 .bg-faded{
+    background-color: #4b4e54;
 
-  color: white;
 
 }
+
 
 #portifolio{
 background-size: cover;
