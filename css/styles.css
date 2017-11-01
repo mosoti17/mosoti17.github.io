@@ -16,9 +16,12 @@ section{
 background-size: cover;
 background-image: url("../assets/potifolio_bg1.jpg");
 background-attachment: fixed;
-background-color: #1e61cc;
 
-
+}
+#landing{
+  background-color: rgba(0, 0, 0,0.6);
+color:#fff;
+font-family: 'Roboto', sans-serif;
 }
 .introduction{
   padding: 22% 0 22% 0;
@@ -38,6 +41,7 @@ text-align: -webkit-center;
 margin: 5%;
 overflow: scroll;
 }
+
 #contact{
 
 }
